@@ -1,7 +1,6 @@
 {
   "name": "sendgrid-test",
   "version": "1.0.0",
-  "description": "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",
   "main": "SendGrid.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
